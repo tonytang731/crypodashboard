@@ -1,0 +1,16 @@
+name: realtime_dashboard
+channels:
+  - defaults
+dependencies:
+  - datashader=0.11.1=py_0
+  - holoviews=1.14.0=pyhd3eb1b0_0
+  - hvplot=0.7.0=pyhd3eb1b0_1
+  - panel=0.10.3=pyhd3eb1b0_0
+  - param=1.10.1=pyhd3eb1b0_0
+  - requests=2.25.1=pyhd3eb1b0_0
+  - streamz=0.6.2=pyhd3eb1b0_0
+  - pip=21.0.1
+  - python
+  - pandas
+  - numpy
+  - notebook
